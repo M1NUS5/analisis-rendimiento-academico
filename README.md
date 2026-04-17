@@ -10,15 +10,15 @@ Objetivo
 
 Analizar la relación entre:
 
-Horas de estudio
-Asistencia
-Tareas entregadas
-Calificación final
+- Horas de estudio
+- Asistencia
+- Tareas entregadas
+- Calificación final
 
 Herramientas utilizadas
-Power BI
-Excel
-GitHub
+- Power BI
+- Excel
+- GitHub
 
 Resultados
 
